@@ -1,3 +1,5 @@
+# Compiled version of the gridstack.js library. Created only for development of the Paragraphs Gridstack module for Drupal CMS. It will be replaced in future with origin library.
+
 # gridstack.js
 
 [![NPM version](https://img.shields.io/npm/v/gridstack.svg)](https://www.npmjs.com/package/gridstack)
